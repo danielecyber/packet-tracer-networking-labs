@@ -52,3 +52,8 @@ and corrected with:
 When a host sends traffic to a remote subnet, the destination IP remains the final remote host, while the Ethernet destination MAC address points to the next hop.
 
 MAC addresses change hop-by-hop, while IP addresses remain end-to-end when NAT is not involved.
+## Lab Evidence
+
+The following screenshot shows ARP resolution and ICMP communication in Packet Tracer Simulation Mode.
+
+![ShadowCore Lab 01 - ARP and ICMP Simulation](images/ShadowCore_Lab_01_ARP_ICMP_Simulation.png)
