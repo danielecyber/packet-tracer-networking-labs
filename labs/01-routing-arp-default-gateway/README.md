@@ -56,4 +56,8 @@ MAC addresses change hop-by-hop, while IP addresses remain end-to-end when NAT i
 
 The following screenshot shows ARP resolution and ICMP communication in Packet Tracer Simulation Mode.
 
-![ShadowCore Lab 01 - ARP and ICMP Simulation](images/ShadowCore_Lab_01_ARP_ICMP_Simulation.png)
+## Lab Evidence
+
+The following screenshot shows ARP resolution and ICMP communication in Packet Tracer Simulation Mode.
+
+![ShadowCore Lab 01 - ARP and ICMP Simulation](images/ShadowCore_Lab_01_Routing_ARP_Default_Gateway.png)
